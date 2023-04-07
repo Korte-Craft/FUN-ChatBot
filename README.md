@@ -1,3 +1,3 @@
 # FUN-ChatBot
 
-Tis is a working ChatBot
+This is a working ChatBot
